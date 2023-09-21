@@ -1,3 +1,6 @@
-coverage
 pylint
 autopep8
+aiohttp
+aiofiles
+psycopg2
+psycopg2_pool
